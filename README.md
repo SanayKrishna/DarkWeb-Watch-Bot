@@ -1,4 +1,5 @@
 DarkWeb Watcher: An AI-Powered Intelligence Assistant 🛡️
+
 About The Project 🚀
 DarkWeb Watcher is a conversational AI assistant designed to provide real-time intelligence on cybersecurity and dark web topics. The bot leverages a Retrieval-Augmented Generation (RAG) architecture, combining a private knowledge base with live web search capabilities to deliver accurate, context-aware answers to user queries.
 This project serves as a comprehensive demonstration of building a sophisticated AI application from the ground up, integrating a web UI, a vector database for specialized knowledge, and live data retrieval from web APIs.
